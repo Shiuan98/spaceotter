@@ -1,0 +1,17 @@
+
+
+@font-face {
+    font-family: 'Brevia';
+    src: url('../fonts/Brevia-ExtraBlack.woff2') format('woff2'),
+         url('../fonts/Brevia-ExtraBlack.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('../fonts/AvenirLTStd-MediumOblique.woff2') format('woff2'),
+         url('../fonts/AvenirLTStd-MediumOblique.woff') format('woff');
+}
+
+h1, h2, h3, h4, h5, h6{font-family: Brevia;}
+
+p{font-family: Avenir;}
